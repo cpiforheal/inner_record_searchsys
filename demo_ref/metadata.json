@@ -1,0 +1,6 @@
+{
+  "name": "本地病案室可视化索引系统",
+  "description": "专科医院纸质病历电子索引与库房柜架可视化管理工作台，提供5个档案柜的多层多摞可交互三维感二维图、实时借阅和整改状态追踪服务。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
